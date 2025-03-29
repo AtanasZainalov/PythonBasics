@@ -1,0 +1,21 @@
+
+customer1 :
+    CustomerID: "ALFKI"
+    CompanyName: "Alfreds Futterkiste"
+    ContactName: "Maria Anders"
+    ContactTitle: "Sales Representative"
+    Address: "Obere Str. 57"
+    City: ['Berlin','Moscow']
+    Region: None
+    PostalCode: 12209
+    Country: "Germany"
+    PhoneNumbers:
+      -"030-0074321"
+      -"465-789-0000"
+      -"727-777-0000"
+    Fax: "030-0076545"
+    isActive: True
+
+customer2:
+  CustomerID: "ALFKI"
+  CompanyName: "Alfreds Futterkiste"
