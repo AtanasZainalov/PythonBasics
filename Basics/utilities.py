@@ -14,3 +14,7 @@ def read_yaml_file(file_path):
 
 #######
 print("hello GIT")
+"HW play with GIT, see the changes, sign up for GIT HUb"
+"3-30/2025 no class"
+"4/03/2025 - 7 pm"
+"finish om 24th approximately last day of tools"

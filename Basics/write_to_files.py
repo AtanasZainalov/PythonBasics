@@ -11,6 +11,6 @@ new_flawors =["\nbanana","\npineapple","\noreo"]
 write_text_file(flavors_rel_path,new_flawors)
 
 students_rel_path = "./data/students.txt"
-new_students = ["Besra","\nRustam","\nNatalia"]
+new_students = ["Busra","\nRustam","\nNatalia"]
 write_text_file(students_rel_path,new_students)
 
