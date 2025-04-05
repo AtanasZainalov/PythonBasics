@@ -1,4 +1,4 @@
-from Basics.Chapter9.Restaurant import User, greeting
+from Chapter9.Restaurant import User, greeting
 
 """ An administrator is a special kind of user. Write a class called
 Admin that inherits from the User class you wrote in Exercise 9-3 (page 166)

@@ -1,5 +1,5 @@
 
-from Basics.Chapter9.Cars import Car
+from Chapter9.Cars import Car
 
 
 car1 = Car('lambo', 'huracan', 2025)

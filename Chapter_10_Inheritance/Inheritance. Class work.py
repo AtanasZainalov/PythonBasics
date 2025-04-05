@@ -1,4 +1,4 @@
-from Basics.Chapter9.Cars import *
+from Chapter9.Cars import *
 # from classes9.cars import Car, ElectricCar   second option
 
 

@@ -8,4 +8,4 @@ def read_text_file(file_path):
     return lines
 
 
-file_rel_path = "./data/flavors.txt"
+file_rel_path = "data/flavors.txt"

@@ -1,8 +1,8 @@
 import yaml
 
-from Basics.utilities import read_yaml_file
+from utilities import read_yaml_file
 
-customer_path= "./data/customers.yml"
+customer_path= "data/customers.yml"
 with open(customer_path, 'r') as file:
     customers = yaml.safe_load(file)
 

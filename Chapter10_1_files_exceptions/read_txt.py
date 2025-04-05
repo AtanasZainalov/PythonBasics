@@ -1,13 +1,13 @@
 print('READING')
-real_path='./data/flavors.txt'
-with open('./data/flavors.txt') as  file_obj:
+real_path= 'data/flavors.txt'
+with open('data/flavors.txt') as  file_obj:
     contents = file_obj.read().strip().upper()
 
 print('Reading the file as a whole')
 print(contents)
 print("_________________________")
 print("Reading the file line by line")
-with open('./data/flavors.txt') as  file_obj:
+with open('data/flavors.txt') as  file_obj:
     for line in file_obj:
         print(line.strip())
 
