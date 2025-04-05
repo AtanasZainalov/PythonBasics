@@ -14,3 +14,4 @@ students_rel_path = "./data/students.txt"
 new_students = ["Busra","\nRustam","\nNatalia"]
 write_text_file(students_rel_path,new_students)
 
+print("scratch")
