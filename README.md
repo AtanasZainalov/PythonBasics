@@ -10,3 +10,4 @@ bold text
 # Useful command on Git
 -add files to git version control. This will start tracking changes in that file and possibly share with your team later on
 -You can do from Pycharm on Cimit window
+-Added 1 line to push to PyCharm
